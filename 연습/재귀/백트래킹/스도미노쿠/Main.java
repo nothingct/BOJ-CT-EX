@@ -1,4 +1,3 @@
-package 백트래킹.스도미노쿠;
 
 import java.util.*;
 public class Main {
